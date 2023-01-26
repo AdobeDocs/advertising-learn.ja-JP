@@ -2,8 +2,8 @@
 user-guide-title: Adobe広告Tutorials
 user-guide-description: Adobe広告用のビデオとチュートリアルのコレクションです。
 breadcrumb-title: 広告Tutorials
-solution: Advertising Cloud
-source-git-commit: c299b88f75a62194bd22b2d220ab525045f78ea7
+solution: Advertising, Advertising Cloud
+source-git-commit: d30a1b72f953f0357d5f2d5c170153226369e519
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
