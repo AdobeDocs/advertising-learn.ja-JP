@@ -1,17 +1,17 @@
 ---
-user-guide-title: Adobe広告Tutorials
-user-guide-description: Adobe広告用のビデオとチュートリアルのコレクションです。
-breadcrumb-title: 広告Tutorials
+user-guide-title: Adobe Advertising チュートリアル
+user-guide-description: Adobe Advertising のビデオとチュートリアルのコレクションです。
+breadcrumb-title: Advertising チュートリアル
 solution: Advertising, Advertising Cloud
 source-git-commit: d30a1b72f953f0357d5f2d5c170153226369e519
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
 
-# Adobe広告Tutorials {#tutorials}
+# Adobe Advertising チュートリアル {#tutorials}
 
 + [概要](overview.md)
 + DSP {#dsp}
