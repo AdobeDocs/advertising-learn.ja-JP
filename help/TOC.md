@@ -2,11 +2,12 @@
 user-guide-title: Adobe Advertising チュートリアル
 user-guide-description: Adobe Advertising のビデオとチュートリアルのコレクションです。
 breadcrumb-title: Advertising チュートリアル
-solution: Advertising
-source-git-commit: 2dc8823f7daba768f758491d60799340a6ff4c7c
+role: User
+level: Beginner, Intermediate
+source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 15%
+ht-degree: 16%
 
 ---
 
@@ -23,14 +24,14 @@ ht-degree: 15%
    + [サードパーティの広告タグの一括アップロード方法](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
    + [の概要 [!DNL Analytics for Advertising]](/help/integrations/analytics/intro-a4adc.md)
-   + [Adobe広告サイト入口レポートの作成](/help/integrations/analytics/analytics-site-entry-a4adc.md)
+   + [Adobe Advertisingサイト入口レポートの作成](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [作成 [!DNL Analytics] アクティベーションおよびレポート用のセグメント](/help/integrations/analytics/analytics-segments-a4adc.md)
-   + [の概要 [!DNL Analysis Workspace] ( レポートAdobe広告データ用 )](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
-   + [使用 [!DNL Marketing Channels] (Adobe広告レポート用 )](/help/integrations/analytics/analytics-reporting-a4adc.md)
-   + [作成 [!DNL Analytics] Adobe広告のアクティベーションとレポート用のプロファイル](/help/integrations/analytics/analytics-profiles-a4adc.md)
+   + [の概要 [!DNL Analysis Workspace] ( レポートAdobe Advertisingデータ用 )](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
+   + [使用 [!DNL Marketing Channels] (Adobe Advertisingレポート用 )](/help/integrations/analytics/analytics-reporting-a4adc.md)
+   + [作成 [!DNL Analytics] Adobe Advertisingの有効化とレポートのプロファイル](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [Adobe Analyticsを使用した、開始前キャンペーン分析の作成](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
-   + [Adobe AnalyticsでのAdobe広告ダッシュボードの作成](/help/integrations/analytics/analytics-dashboards-a4adc.md)
-   + [作成 [!DNL Analytics] カスタム指標とAdobe広告データ](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
+   + [Adobe AnalyticsでのAdobe Advertisingダッシュボードの作成](/help/integrations/analytics/analytics-dashboards-a4adc.md)
+   + [作成 [!DNL Analytics] カスタム指標とAdobe Advertisingデータ](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
