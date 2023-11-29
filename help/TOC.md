@@ -4,7 +4,8 @@ user-guide-description: Adobe Advertising のビデオとチュートリアル�
 breadcrumb-title: Advertising チュートリアル
 role: User
 level: Beginner, Intermediate
-source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
+auto-video-transcripts: true
+source-git-commit: 65f84dafc00203be415e60f4e3aabbfba70d7fbb
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 16%
@@ -31,7 +32,7 @@ ht-degree: 16%
    + [作成 [!DNL Analytics] Adobe Advertisingの有効化とレポートのプロファイル](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [Adobe Analyticsを使用した、開始前キャンペーン分析の作成](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Adobe AnalyticsでのAdobe Advertisingダッシュボードの作成](/help/integrations/analytics/analytics-dashboards-a4adc.md)
-   + [作成 [!DNL Analytics] カスタム指標とAdobe Advertisingデータ](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
+   + [作成 [!DNL Analytics] Adobe Advertisingデータを含むカスタム指標](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
