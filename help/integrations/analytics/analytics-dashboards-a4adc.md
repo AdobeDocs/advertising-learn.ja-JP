@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Adobe AnalyticsでのAdobe Advertisingダッシュボードの作成
 
-*次を持つ広告主[!DNL Adobe Analytics for Adobe Advertising]*
+*[!DNL Adobe Analytics for Adobe Advertising]* を使用する広告主
 
 ライブキャンペーン監視用のAdobe Advertisingダッシュボードを作成する方法を説明します。
 

@@ -1,6 +1,6 @@
 ---
-title: Adobe Advertisingマーケティングチャネルを使用したレポート
-description: Adobe AdvertisingのビュースルーおよびクリックスルーエントリデータがAdobe Analyticsと連携する仕組みについて説明します。 [!DNL Marketing Channels].
+title: Adobe Advertisingのマーケティングチャネルを使用したレポート
+description: Adobe Analytics [!DNL Marketing Channels] でAdobe Advertisingのビュースルーおよびクリックスルーエントリデータが機能する仕組みを説明します。
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Advertisingマーケティングチャネルを使用したレポート
+# Adobe Advertisingのマーケティングチャネルを使用したレポート
 
-*次を持つ広告主[!DNL Adobe Analytics for Adobe Advertising]*
+*[!DNL Adobe Analytics for Adobe Advertising]* を使用する広告主
 
-Adobe AdvertisingのビュースルーおよびクリックスルーエントリデータがAdobe Analyticsと連携する仕組みについて説明します。 [!DNL Marketing Channels].
+Adobe AdvertisingのビュースルーおよびクリックスルーエントリデータがAdobe Analytics [!DNL Marketing Channels] と連携する仕組みを説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)

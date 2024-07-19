@@ -14,13 +14,13 @@ ht-degree: 25%
 
 # Adobe Advertising チュートリアル
 
-これらのビデオチュートリアルは、 [Adobe Advertisingドキュメント](https://experienceleague.adobe.com/docs/advertising-cloud.html)を使用すると、Adobe Advertisingを使用してこれまで以上に迅速に顧客インサイトを得ることができます。
+これらのビデオチュートリアルと [Adobe Advertisingドキュメント ](https://experienceleague.adobe.com/docs/advertising-cloud.html) は、Adobe Advertisingを使用して顧客インサイトをかつてないほど早く得るのに役立ちます。
 
 ビデオは以下で利用できます。
 
 * Advertising DSP
 
-* Advertising DSPおよび Advertising Search と他のAdobe Experience Cloud製品およびサービスとの統合
+* Advertising DSPとAdvertisingのその他のAdobe Experience Cloud製品およびサービスとの統合
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content

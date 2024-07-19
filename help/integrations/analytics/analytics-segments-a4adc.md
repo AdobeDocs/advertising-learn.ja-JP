@@ -1,6 +1,6 @@
 ---
-title: 作成 [!DNL Analytics] アクティベーションおよびレポート用のセグメント
-description: より簡潔なレポートと分析のために、Adobe Advertisingディメンションを使用してセグメントを作成する方法を説明します。
+title: アクティベーションおよびレポート用のセグメントの作成  [!DNL Analytics]  セグメント
+description: Adobe Advertisingディメンションを使用して、レポートと分析に優れたセグメントを作成する方法を説明します。
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ---
 
-# 作成 [!DNL Analytics] アクティベーションおよびレポート用のセグメント
+# アクティベーションおよびレポート用の [!DNL Analytics] セグメントの作成
 
-*次を持つ広告主[!DNL Adobe Analytics for Adobe Advertising]*
+*[!DNL Adobe Analytics for Adobe Advertising]* を使用する広告主
 
-より簡潔なレポートと分析のために、Adobe Advertisingディメンションを使用してセグメントを作成する方法を説明します。
+Adobe Advertisingディメンションを使用して、レポートと分析に優れたセグメントを作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33916)

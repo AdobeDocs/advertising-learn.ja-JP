@@ -1,6 +1,6 @@
 ---
 title: Adobe Advertisingサイト入口レポートの作成
-description: 曜日、時間帯、Adobe Advertising、および地理的な影響を監視するブラウザーサイトエントリレポートを作成する方法を説明します。
+description: 曜日、時間帯、ブラウザーおよび地理的な影響を監視するAdobe Advertisingサイト入口レポートを作成する方法について説明します。
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 # Adobe Advertisingサイト入口レポートの作成
 
-*次を持つ広告主[!DNL Adobe Analytics for Adobe Advertising]*
+*[!DNL Adobe Analytics for Adobe Advertising]* を使用する広告主
 
-曜日、時間帯、Adobe Advertising、および地理的な影響を監視するブラウザーサイトエントリレポートを作成する方法を説明します。
+曜日、時間帯、ブラウザーおよび地理的な影響を監視するAdobe Advertisingサイト入口レポートを作成する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33921)

@@ -5,8 +5,8 @@ source-wordcount: '22'
 ht-degree: 0%
 
 ---
-# Adobe広告DSPTutorials
+# Adobe Advertising DSPTutorials
 
 これは、DSPに関するビデオページのフォルダーです。
 
-**注意：このページは、お客様向けドキュメントには公開されていません。**
+**メモ：このページは、顧客向けドキュメントでは公開されていません。**

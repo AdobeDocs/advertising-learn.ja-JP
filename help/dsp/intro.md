@@ -1,6 +1,6 @@
 ---
 title: Adobe Advertising DSPの概要
-description: メディアAdobe Advertising DSPと、メディアキャンペーンにどのようなメリットがあるかを説明します。
+description: Adobe Advertising DSPと、それがメディアキャンペーンに与えるメリットについて説明します。
 feature: DSP Introduction
 exl-id: 6aa44b8e-da4d-4141-b7b5-989046586315
 source-git-commit: af3e559e82e634a736788a66a9312bee3e3f002c
@@ -12,6 +12,6 @@ ht-degree: 0%
 
 # Adobe Advertising DSPの概要
 
-Advertising DSP、Adobe Experience Cloudに適した方法、広告主向けの機能、Adobe Analyticsとの統合とメディアキャンペーンに役立つ機能などについて説明します。
+Advertising DSPとの適合、広告主に対する効果、Adobe Experience Cloudと他のサービスとの統合がメディアキャンペーンに与えるメリットなど、Adobe Analyticsについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/339200)

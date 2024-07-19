@@ -1,6 +1,6 @@
 ---
-title: の概要 [!DNL Adobe Analytics for Adobe Advertising]
-description: 解決するお客様の問題を含め、Adobe AdvertisingとAdobe Analyticsの統合のメリットを理解します。
+title: 概要  [!DNL Adobe Analytics for Adobe Advertising]
+description: 解決するお客様の問題など、Adobe AdvertisingとAdobe Analyticsの統合のメリットを理解します。
 level: Beginner
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# の概要 [!DNL Adobe Analytics for Adobe Advertising]
+# [!DNL Adobe Analytics for Adobe Advertising] の概要
 
-解決するお客様の問題を含め、Adobe AdvertisingとAdobe Analyticsの統合のメリットを理解します。
+解決するお客様の問題など、Adobe AdvertisingとAdobe Analyticsの統合のメリットを理解します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33491)

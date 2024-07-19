@@ -1,5 +1,5 @@
 ---
-title: 作成 [!DNL Analytics] Adobe Advertisingの有効化とレポートのプロファイル
+title: Adobe Advertisingのアクティベーションとレポートのための作成  [!DNL Analytics]  プロファイル
 description: Adobe Analyticsを使用して、Adobe Advertisingリマーケティング用の堅牢なサイトリターゲティングプールを作成する方法を説明します。
 level: Intermediate, Experienced
 topic: Integrations
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# 作成 [!DNL Analytics] Adobe Advertisingの有効化とレポートのプロファイル
+# Adobe Advertisingのアクティベーションとレポートに使用する [!DNL Analytics] プロファイルの作成
 
-*次を持つ広告主[!DNL Adobe Analytics for Adobe Advertising]*
+*[!DNL Adobe Analytics for Adobe Advertising]* を使用する広告主
 
 Adobe Analyticsを使用して、Adobe Advertisingリマーケティング用の堅牢なサイトリターゲティングプールを作成する方法を説明します。
 

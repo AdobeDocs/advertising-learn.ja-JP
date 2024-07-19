@@ -1,6 +1,6 @@
 ---
-title: 作成 [!DNL Analytics] カスタム指標とAdobe Advertisingデータ
-description: Adobe Analytics内でAdobe Advertisingデータを使用する場合に作成するのに便利なカスタム指標について説明します。
+title: Adobe Advertisingデ  [!DNL Analytics]  タを使用したカスタム指標の作成
+description: Adobe Analytics内でAdobe Advertisingデータを使用する際に作成すると便利なカスタム指標について説明します。
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ---
 
-# 作成 [!DNL Analytics] カスタム指標とAdobe Advertisingデータ
+# Adobe Advertisingデータ [!DNL Analytics] 使用したカスタム指標の作成
 
-*次を持つ広告主[!DNL Adobe Analytics for Adobe Advertising]*
+*[!DNL Adobe Analytics for Adobe Advertising]* を使用する広告主
 
-Adobe Analytics内でAdobe Advertisingデータを使用する場合に作成するのに便利なカスタム指標について説明します。
+Adobe Analytics内でAdobe Advertisingデータを使用する際に作成すると便利なカスタム指標について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33919)

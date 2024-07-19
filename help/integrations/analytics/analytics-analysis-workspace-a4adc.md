@@ -1,6 +1,6 @@
 ---
-title: の概要 [!DNL Analysis Workspace] ( レポートAdobe Advertisingデータ用 )
-description: Adobe AnalyticsでAdobe Advertisingデータを使用して視覚的なレポートを作成する方法を説明します [!DNL Analysis Workspace].
+title: 概要  [!DNL Analysis Workspace] Adobe Advertisingデータのレポート用
+description: Adobe Advertisingデータを使用して、Adobe Analytics [!DNL Analysis Workspace] で視覚的なレポートを作成する方法を説明します。
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# の概要 [!DNL Analysis Workspace] ( レポートAdobe Advertisingデータ用 )
+# Adobe Advertisingデータをレポートするための [!DNL Analysis Workspace] の概要
 
-Adobe AnalyticsでAdobe Advertisingデータを使用して視覚的なレポートを作成する方法を説明します [!DNL Analysis Workspace].
+Adobe Advertisingデータを使用して、Adobe Analytics [!DNL Analysis Workspace] で視覚的なレポートを作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33492)

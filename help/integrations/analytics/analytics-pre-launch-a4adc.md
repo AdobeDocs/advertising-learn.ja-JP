@@ -1,6 +1,6 @@
 ---
-title: Adobe Analyticsを使用した、開始前キャンペーン分析の作成
-description: Adobe Analyticsを使用して、有料メディアキャンペーンの開始の基盤を設定するAdobe Advertisingを説明します。
+title: Adobe Analyticsを使用した、キャンペーン開始前分析の作成
+description: Adobe Analyticsを使用して、Adobe Advertising向け有料メディアキャンペーンの実施の基盤を設定する方法を説明します。
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Analyticsを使用した、開始前キャンペーン分析の作成
+# Adobe Analyticsを使用した、キャンペーン開始前分析の作成
 
-*次を持つ広告主[!DNL Adobe Analytics for Adobe Advertising]*
+*[!DNL Adobe Analytics for Adobe Advertising]* を使用する広告主
 
-Adobe Analyticsを使用して、有料メディアキャンペーンの開始の基盤を設定するAdobe Advertisingを説明します。
+Adobe Analyticsを使用して、Adobe Advertising向け有料メディアキャンペーンの実施の基盤を設定する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33501)
