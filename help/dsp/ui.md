@@ -14,4 +14,4 @@ ht-degree: 0%
 
 DSP広告アカウントの構造、キャンペーン管理ビューの使用方法、オーディエンス管理、在庫、レポート、設定、リソース機能の説明について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/339206)
+>[!VIDEO](https://video.tv.adobe.com/v/3412417?captions=jpn)

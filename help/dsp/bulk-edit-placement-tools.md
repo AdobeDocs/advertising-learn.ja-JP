@@ -14,5 +14,5 @@ ht-degree: 0%
 
 DSPで複数のプレースメントの設定を一度に編集する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/339205)
+>[!VIDEO](https://video.tv.adobe.com/v/3412411?captions=jpn)
 

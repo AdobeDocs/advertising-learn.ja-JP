@@ -14,4 +14,4 @@ ht-degree: 0%
 
 DSP キャンペーンの標準の表示配置を作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340454)
+>[!VIDEO](https://video.tv.adobe.com/v/345001?captions=jpn)

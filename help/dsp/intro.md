@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Advertising DSPとの適合、広告主に対する効果、Adobe Experience Cloudと他のサービスとの統合がメディアキャンペーンに与えるメリットなど、Adobe Analyticsについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/339200)
+>[!VIDEO](https://video.tv.adobe.com/v/3412423?captions=jpn)

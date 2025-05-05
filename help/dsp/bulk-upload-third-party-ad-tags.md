@@ -14,4 +14,4 @@ ht-degree: 0%
 
 一度に複数のサードパーティ広告タグをアップロードする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/339204)
+>[!VIDEO](https://video.tv.adobe.com/v/342176?captions=jpn)
