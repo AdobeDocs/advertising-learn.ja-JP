@@ -14,7 +14,7 @@ ht-degree: 25%
 
 # Adobe Advertising チュートリアル
 
-これらのビデオチュートリアルと [Adobe Advertisingドキュメント ](https://experienceleague.adobe.com/ja/docs/advertising) は、Adobe Advertisingを使用して顧客インサイトをかつてないほど早く得るのに役立ちます。
+これらのビデオチュートリアルと [Adobe Advertisingドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/advertising) は、Adobe Advertisingを使用して顧客インサイトをかつてないほど早く得るのに役立ちます。
 
 ビデオは以下で利用できます。
 
