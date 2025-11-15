@@ -1,0 +1,37 @@
+---
+title: Customer Journey Analytics コンバージョンイベントをAdobe Advertisingに送信するための初期設定タスク
+description: Customer Journey Analytics コンバージョンイベントをAdobe Advertisingに送信するために必要な最初の手順を説明します
+level: Beginner, Intermediate, Experienced
+topic: Integrations
+feature: Integration with Adobe Customer Journey Analytics
+hide: true
+hidefromtoc: true
+source-git-commit: 7d5428d459a4f3af9847134feaa8ac06d7e6e003
+workflow-type: tm+mt
+source-wordcount: '137'
+ht-degree: 0%
+
+---
+
+# Customer Journey Analytics コンバージョンイベントをAdobe Advertisingに送信するための初期設定タスク
+
+Customer Journey Analytics コンバージョンイベントをAdobe Advertisingに送信するために必要な最初の手順について説明します。後で最適化目標や目標に含めることができます。
+
+これらの手順を完了し、データビューをAdobe アカウントチームに提供したら、その他の手順を実行して統合を設定できます。 追加の手順について詳しくは、[ 完全なドキュメント ](/help/integrations/customer-journey-analytics/overview.md) を参照してください。
+
+## 概要
+
+>[!VIDEO](https://video.tv.adobe.com/v/3476732?learn=on)
+
+## Customer Journey Analyticsでの場所アカウントの設定
+
+>[!VIDEO](https://video.tv.adobe.com/v/3476734?learn=on)
+
+## エクスポートする指標を含むデータビューをAnalysis Workspaceで作成します
+
+>[!VIDEO](https://video.tv.adobe.com/v/3476733?learn=on)
+
+>[!MORELIKETHIS]
+>
+>* [Adobe AdvertisingとCustomer Journey Analyticsの統合の概要 ](/help/integrations/customer-journey-analytics/overview.md)
+
