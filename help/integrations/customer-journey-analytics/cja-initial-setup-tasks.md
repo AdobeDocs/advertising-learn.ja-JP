@@ -29,7 +29,7 @@ Customer Journey Analytics コンバージョンイベントをAdobe Advertising
 
 ## エクスポートする指標を含むデータビューをAnalysis Workspaceで作成します
 
->[!VIDEO](https://video.tv.adobe.com/v/3476733?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476757?captions=jpn&learn=on)
 
 >[!MORELIKETHIS]
 >
