@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Customer Journey Analytics コンバージョンイベントをAdobe Advertisingに送信するために必要な最初の手順について説明します。後で最適化目標や目標に含めることができます。
 
-これらの手順を完了し、データビューをAdobe アカウントチームに提供したら、その他の手順を実行して統合を設定できます。 追加の手順について詳しくは、[&#x200B; 完全なドキュメント &#x200B;](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview) を参照してください。
+これらの手順を完了し、データビューをAdobe アカウントチームに提供したら、その他の手順を実行して統合を設定できます。 追加の手順について詳しくは、[&#x200B; 完全なドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/advertising/integrations/customer-journey-analytics/overview) を参照してください。
 
 ## 概要
 
