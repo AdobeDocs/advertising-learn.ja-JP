@@ -6,9 +6,9 @@ topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
 hidefromtoc: true
-source-git-commit: e1ff921683f43266a56bcc4d4ee8870e186ca165
+source-git-commit: de07d9c78e3b7704079b93a03b190e8ff180f655
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Customer Journey Analytics コンバージョンイベントをAdobe Advertisingに送信するために必要な最初の手順について説明します。後で最適化目標や目標に含めることができます。
 
-これらの手順を完了し、データビューをAdobe アカウントチームに提供したら、その他の手順を実行して統合を設定できます。 追加の手順について詳しくは、[&#x200B; 完全なドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/advertising/integrations/customer-journey-analytics/overview) を参照してください。
+これらの手順を完了し、データビューをAdobe アカウントチームに提供したら、その他の手順を実行して統合を設定できます。 追加の手順について詳しくは、[ 完全なドキュメント ](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview) を参照してください。
 
 ## 概要
 
@@ -29,9 +29,8 @@ Customer Journey Analytics コンバージョンイベントをAdobe Advertising
 
 ## エクスポートする指標を含むデータビューをAnalysis Workspaceで作成します
 
->[!VIDEO](https://video.tv.adobe.com/v/3476757?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476733?learn=on)
 
 >[!MORELIKETHIS]
 >
->* [Adobe AdvertisingとCustomer Journey Analyticsの統合の概要 &#x200B;](/help/integrations/customer-journey-analytics/overview.md)
-
+>* [Adobe AdvertisingとCustomer Journey Analyticsの統合の概要 ](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
