@@ -1,60 +1,60 @@
 ---
 source-git-commit: 211f4697f6abf8e21f2043a466e3e8dd604db701
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 6%
+source-wordcount: '440'
+ht-degree: 0%
 
 ---
-# 記事の投稿
+# 記事を投稿
 
-コミュニティやドキュメントチーム以外のAdobe従業員からの投稿を歓迎します。
+私たちは、コミュニティやAdobeのドキュメント部門以外のスタッフからの寄付を歓迎します。
 
-## Adobeオープンソース行動規範
+## AdobeオープンSource行動規範
 
-このプロジェクトでは、[アドビオープンソース行動規範](code-of-conduct.md) または [.NET Foundation 行動規範](https://dotnetfoundation.org/code-of-conduct)を採用しています。詳しくは、[投稿](contributing.md)の記事を参照してください。
+このプロジェクトでは、[Adobe Open Source Code of Conduct](code-of-conduct.md)または[.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct)を採用しています。 詳しくは、[寄付](contributing.md)の記事を参照してください。
 
-## Adobeコンテンツへの投稿について
+## Adobe コンテンツへのコントリビューションについて
 
-詳しくは、 [Adobeドキュメント寄稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja).
+[Adobe Docs Contributor Guide](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
 
-投稿方法は、投稿者と、投稿したい変更の種類に応じて異なります。
+貢献の方法は、自身が誰であるか、また貢献したい変更の種類によって異なります。
 
 ### 軽微な変更
 
-善意でマイナーな更新を行う場合は、記事にアクセスし、 **編集** 記事の GitHub ソースに移動する記事内のリンク。 その後、GitHub UI を使用して更新をおこないます。 一般 [Adobeドキュメント寄稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja) を参照してください。
+あなたが心の良さからマイナーアップデートを提供している場合は、記事にアクセスし、記事のGitHub ソースに移動する記事の&#x200B;**Edit** リンクをクリックしてください。 次に、GitHub UIを使用して更新します。 詳しくは、[Adobe Docs コントリビューターガイド &#x200B;](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
 
-このリポジトリのドキュメントおよびコード例について送信したマイナーな修正や説明は、Adobe利用条件の適用を受けます。
+このリポジトリのドキュメントやコード例に対して提出する軽微な修正や明確化は、Adobe利用条件の対象となります。
 
-### コミュニティメンバーによる大きな変更または新しい記事
+### コミュニティメンバーからの主な変更点や新しい記事
 
-Adobeコミュニティのメンバーが新しい記事を作成したり、大きな変更を投稿したりする場合は、Git リポジトリの「Issues」タブを使用して、ドキュメントチームとの会話を開始するための問題を送信してください。 計画に同意したら、公開および非公開リポジトリでの作業を組み合わせて新しいコンテンツを取り込むために、従業員と協力する必要があります。
+Adobe コミュニティに参加していて、新しい記事を作成したり、大きな変更を送信したりしたい場合は、Git リポジトリの「イシュー」タブを使用してイシューを送信し、ドキュメントチームとの会話を開始してください。 計画に同意したら、従業員と協力して、公開リポジトリと非公開リポジトリの作業を組み合わせて、新しいコンテンツを導入する必要があります。
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
 -->
 
-### 従業員からの大きな変更Adobe
+### Adobe社員の主な変更点
 
-Adobe Experience Cloudソリューションの製品チーム、プログラムマネージャーまたは開発者で、技術記事の投稿や作成が職務となっている場合は、次のプライベートリポジトリを使用する必要があります。 `https://git.corp.adobe.com/AdobeDocs`.
+テクニカルライター、プログラムマネージャー、またはAdobe Experience Cloud ソリューションのプロダクトチームの開発者で、技術記事の投稿や作成を担当する場合は、`https://git.corp.adobe.com/AdobeDocs`にあるプライベートリポジトリを使用してください。
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
-## ツールとセットアップ
+## ツールと設定
 
-コミュニティの投稿者は、GitHub UI を使用して基本的な編集をおこなったり、リポジトリをフォークして大きな貢献をすることができます。
+コミュニティのコントリビューターは、GitHub UIを使用して基本的な編集をおこなったり、リポジトリをフォークして主要なコントリビューションを作成したりできます。
 
-詳しくは、 [Adobeドキュメント寄稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja) 」を参照してください。
+詳しくは、[Adobe Docs Contributor Guide](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
 
-## Markdown を使用してトピックをフォーマットする方法
+## Markdownを使用してトピックを書式設定する方法
 
-このリポジトリ内の記事はすべて、GitHub 固有の Markdown を使用しています。 Markdown に詳しくない場合は、以下を参照してください。
+このリポジトリ内のすべての記事では、GitHubのマークダウンを使用しています。 Markdownに詳しくない場合は、以下を参照してください。
 
-* [Markdown の基本](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
-* [印刷可能な Markdown の早見表](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Markdownの基本](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [印刷可能なマークダウンのチートシート](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## ラベル
 
-公開リポジトリでは、プルリクエストに自動ラベルが割り当てられ、プルリクエストのワークフローを管理したり、プルリクエストの処理状況を知らせたりできます。
+公開リポジトリでは、プルリクエストに自動ラベルが割り当てられ、プルリクエストワークフローの管理や、プルリクエストの状況の把握に役立ちます。
 
-* **変更が作成者に送信されました**:保留中のプル要求について作成者に通知されました。
-* **ready-to-merge**:プルリクエストレビューチームによるレビューの準備が整いました。
+* **作成者に変更が送信されました**：保留中のプルリクエストが作成者に通知されました。
+* **結合準備完了**: プルリクエストレビューチームによるレビューの準備完了です。
