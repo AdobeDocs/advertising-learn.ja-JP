@@ -5,10 +5,10 @@ breadcrumb-title: Advertising チュートリアル
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: 202fc9fe52e03eab7931582f06a1847e8beb1d19
+source-git-commit: b20cca5dc10b28e73348cdfac178555a951a0203
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 18%
+ht-degree: 16%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 18%
    + [Adobe Analyticsを使用したローンチ前のキャンペーン分析の作成](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Adobe AnalyticsによるAdobe Advertisingダッシュボードの構築](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [Adobe Advertising データを使用した [!DNL Analytics]  カスタム指標の作成](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
-+ [Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-setup-tasks.md)
++ {hide-from-toc}[Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-setup-tasks.md)
 
 <!-- 
 Add to DSP chapter once the videos are complete:
