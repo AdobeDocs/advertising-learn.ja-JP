@@ -6,7 +6,7 @@ topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
 exl-id: 1d9ef24f-02bf-4260-9d16-24580cd1c7a3
-source-git-commit: b20cca5dc10b28e73348cdfac178555a951a0203
+source-git-commit: dce2767431ff07c573661fada5a5e4edeb95ea82
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Customer Journey AnalyticsのコンバージョンイベントをAdobe Advertisi
 
 ### 概要
 
->[!VIDEO](https://video.tv.adobe.com/v/3476824?captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3476810)
 
 ### 手順1:Customer Journey Analyticsで位置情報アカウントを設定する
 
@@ -35,7 +35,7 @@ Customer Journey AnalyticsのコンバージョンイベントをAdobe Advertisi
 
 >[!MORELIKETHIS]
 >
->* [Adobe AdvertisingとCustomer Journey Analyticsの連携の概要](https://experienceleague.adobe.com/ja/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Adobe AdvertisingとCustomer Journey Analyticsの連携の概要](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
 
 ## Customer Journey AnalyticsでAdobe Advertising キャンペーンデータを表示する手順
 
@@ -53,8 +53,8 @@ Customer Journey AnalyticsのコンバージョンイベントをAdobe Advertisi
 
 ### 手順3:Adobe Advertising ディメンションの永続性設定と派生フィールドの設定
 
->[!VIDEO](https://video.tv.adobe.com/v/3476933?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
 
 >[!MORELIKETHIS]
 >
->* [書面の文書](https://experienceleague.adobe.com/ja/docs/advertising/integrations/customer-journey-analytics/overview)。
+>* [書面の文書](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)。
