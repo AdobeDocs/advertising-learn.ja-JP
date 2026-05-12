@@ -34,7 +34,7 @@ Customer Journey AnalyticsのコンバージョンイベントをAdobe Advertisi
 
 ### 概要
 
->[!VIDEO](https://video.tv.adobe.com/v/3476810)
+>[!VIDEO](https://video.tv.adobe.com/v/3476824?captions=jpn)
 
 ### 手順1:Customer Journey Analyticsで位置情報アカウントを設定する
 
@@ -64,7 +64,7 @@ Customer Journey AnalyticsのコンバージョンイベントをAdobe Advertisi
 
 ### 手順3:Adobe Advertising ディメンションの永続性設定と派生フィールドの設定
 
->[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476933?captions=jpn&learn=on)
 
 >[!MORELIKETHIS]
 >

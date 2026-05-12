@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Advertising DSPのAdobe Experience Cloudへの組み込み方、広告主にとってのメリット、Adobe Analyticsやその他のサービスとの統合がメディアキャンペーンにどのようなメリットをもたらすのかなど、Adobe Media Managerについて詳しく説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/339200)
+>[!VIDEO](https://video.tv.adobe.com/v/3412423?captions=jpn)
