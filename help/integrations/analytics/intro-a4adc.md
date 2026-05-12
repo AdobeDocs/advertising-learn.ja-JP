@@ -1,19 +1,28 @@
 ---
-title: 概要  [!DNL Adobe Analytics for Adobe Advertising]
-description: 解決するお客様の問題など、Adobe AdvertisingとAdobe Analyticsの統合のメリットを理解します。
+title: ' [!DNL Adobe Analytics for Adobe Advertising]の概要'
+description: Adobe AdvertisingとAdobe Analyticsの連携による課題とその利点を理解します。
 level: Beginner
 topic: Integrations
 feature: Integration with Adobe Analytics
 exl-id: 3e8b735d-62a3-4f03-b259-f3278cde8afb
-source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
+TQID: https://experienceleague.adobe.com/q1tSez5wsBca1m9xGElx9wEAuBXtXsCmBH-00SLJhc0
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: 40
 ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Analytics for Adobe Advertising] の概要
+# [!DNL Adobe Analytics for Adobe Advertising]の概要
 
-解決するお客様の問題など、Adobe AdvertisingとAdobe Analyticsの統合のメリットを理解します。
+Adobe AdvertisingとAdobe Analyticsの連携による課題とその利点を理解します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33491)
