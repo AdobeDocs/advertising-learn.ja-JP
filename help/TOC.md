@@ -5,9 +5,9 @@ breadcrumb-title: Advertising チュートリアル
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: b20cca5dc10b28e73348cdfac178555a951a0203
+source-git-commit: 796ab0255b9fa1db4a3bf0e19eb9642224788542
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '108'
 ht-degree: 16%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 16%
    + [一括編集ツールを使用して配置を編集する方法](/help/dsp/bulk-edit-placement-tools.md)
    + [サードパーティの広告タグを一括アップロードする方法](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
-   + [&#x200B; [!DNL Analytics for Advertising]の概要](/help/integrations/analytics/intro-a4adc.md)
+   + [ [!DNL Analytics for Advertising]の概要](/help/integrations/analytics/intro-a4adc.md)
    + [Adobe Advertising サイト入口レポートの作成](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [アクティブ化とレポート用に [!DNL Analytics]  セグメントを作成](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [Reporting Adobe Advertising データの [!DNL Analysis Workspace] の概要](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
@@ -33,7 +33,6 @@ ht-degree: 16%
    + [Adobe Analyticsを使用したローンチ前のキャンペーン分析の作成](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Adobe AnalyticsによるAdobe Advertisingダッシュボードの構築](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [Adobe Advertising データを使用した [!DNL Analytics]  カスタム指標の作成](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
-+ {hide-from-toc}[Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-setup-tasks.md)
 
 <!-- 
 Add to DSP chapter once the videos are complete:
