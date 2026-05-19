@@ -46,7 +46,7 @@ Customer Journey AnalyticsのコンバージョンイベントをAdobe Advertisi
 
 >[!MORELIKETHIS]
 >
->* [Adobe AdvertisingとCustomer Journey Analyticsの連携の概要](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Adobe AdvertisingとCustomer Journey Analyticsの連携の概要](https://experienceleague.adobe.com/ja/docs/advertising/integrations/customer-journey-analytics/overview)
 
 ## Customer Journey AnalyticsでAdobe Advertising キャンペーンデータを表示する手順
 
@@ -68,4 +68,4 @@ Customer Journey AnalyticsのコンバージョンイベントをAdobe Advertisi
 
 >[!MORELIKETHIS]
 >
->* [書面の文書](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)。
+>* [書面の文書](https://experienceleague.adobe.com/ja/docs/advertising/integrations/customer-journey-analytics/overview)。
