@@ -29,4 +29,4 @@ ht-degree: 0%
 
 DSP キャンペーン用のパッケージの作成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/339257)
+>[!VIDEO](https://video.tv.adobe.com/v/3412429?captions=jpn)
