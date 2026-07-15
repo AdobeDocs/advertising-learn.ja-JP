@@ -24,7 +24,7 @@ ht-degree: 13%
    + [一括編集ツールを使用して配置を編集する方法](/help/dsp/bulk-edit-placement-tools.md)
    + [サードパーティの広告タグを一括アップロードする方法](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
-   + [ [!DNL Analytics for Advertising]の概要](/help/integrations/analytics/intro-a4adc.md)
+   + [&#x200B; [!DNL Analytics for Advertising]の概要](/help/integrations/analytics/intro-a4adc.md)
    + [Adobe Advertising サイト入口レポートの作成](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [アクティブ化とレポート用に [!DNL Analytics]  セグメントを作成](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [Reporting Adobe Advertising データの [!DNL Analysis Workspace] の概要](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
