@@ -5,10 +5,10 @@ breadcrumb-title: Advertising チュートリアル
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: 796ab0255b9fa1db4a3bf0e19eb9642224788542
+source-git-commit: 5f04bcf2370017d8c9674e780a4fc5a35e6dddbe
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 16%
+ht-degree: 13%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 16%
    + [一括編集ツールを使用して配置を編集する方法](/help/dsp/bulk-edit-placement-tools.md)
    + [サードパーティの広告タグを一括アップロードする方法](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
-   + [&#x200B; [!DNL Analytics for Advertising]の概要](/help/integrations/analytics/intro-a4adc.md)
+   + [ [!DNL Analytics for Advertising]の概要](/help/integrations/analytics/intro-a4adc.md)
    + [Adobe Advertising サイト入口レポートの作成](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [アクティブ化とレポート用に [!DNL Analytics]  セグメントを作成](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [Reporting Adobe Advertising データの [!DNL Analysis Workspace] の概要](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
