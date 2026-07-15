@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Advertising DSPの概要、Adobe Experience Cloudにおける役割、Adobe Analyticsやその他のサービスとの統合がメディアキャンペーンにどのような利点をもたらすかをご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/339200)
+>[!VIDEO](https://video.tv.adobe.com/v/3412423?captions=jpn)
