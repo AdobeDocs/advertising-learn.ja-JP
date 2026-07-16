@@ -14,7 +14,7 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
 source-wordcount: 40
 ht-degree: 0%
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 # [!DNL Adobe Analytics for Adobe Advertising]の概要
 
-Adobe AdvertisingとAdobe Analyticsの連携による課題とその利点を理解します。
+解決できるお客様の問題を含め、Adobe AdvertisingとAdobe Analytics間の統合の利点を理解します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33491)

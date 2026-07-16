@@ -22,15 +22,15 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 48
+source-wordcount: 53
 ht-degree: 0%
 
 ---
 
 # アカウント構造とユーザーインターフェイス
 
-DSPの広告アカウントの構造、キャンペーン管理ビューの使用方法、オーディエンス管理、インベントリ、レポート、設定、リソース機能の説明を説明します。
+DSPの広告アカウントの構造、キャンペーン管理ビューの使用方法、オーディエンス管理、在庫管理、レポート、管理設定と料金、追跡リソースの機能などの情報を理解します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412417?captions=jpn)

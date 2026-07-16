@@ -1,5 +1,5 @@
 ---
-title: Adobe Adobe Advertisingのマーケティングチャネルによるレポート
+title: Adobe Adobe Advertisingのマーケティングチャネルでのレポート
 description: Adobe Advertisingのビュースルーおよびクリックスルー入力データがAdobe Analytics [!DNL Marketing Channels]でどのように機能するかをご覧ください。
 level: Intermediate, Experienced
 topic: Integrations
@@ -14,17 +14,17 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
 source-wordcount: 46
 ht-degree: 0%
 
 ---
 
-# Adobe Adobe Advertisingのマーケティングチャネルによるレポート
+# Adobe Adobe Advertisingのマーケティングチャネルでのレポート
 
 *広告主と[!DNL Adobe Analytics for Adobe Advertising]*
 
-Adobe Advertisingのビュースルーおよびクリックスルー入力データがAdobe Analytics [!DNL Marketing Channels]でどのように機能するかをご確認ください。
+Adobe Advertising ビュースルーおよびクリックスルーの入力データをAdobe Analytics [!DNL Marketing Channels]と統合する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)

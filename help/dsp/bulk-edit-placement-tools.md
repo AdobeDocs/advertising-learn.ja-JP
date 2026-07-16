@@ -1,5 +1,5 @@
 ---
-title: DSPの一括編集ツールを使用して配置を編集する方法
+title: DSPのバッチ編集ツールを使用してプレースメントを編集する方法
 description: 複数のプレースメントの設定を一度に編集する方法について説明します。
 feature: DSP Placements
 exl-id: 3c9abc04-0261-4ba1-a19d-68a6d862f660
@@ -15,14 +15,14 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
 source-wordcount: 42
 ht-degree: 0%
 
 ---
 
-# 一括編集ツールを使用して配置を編集する方法
+# バッチ編集ツールを使用してプレースメントを編集する方法
 
 DSPで複数のプレースメントの設定を一度に編集する方法について説明します。
 

@@ -17,22 +17,22 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 64
-ht-degree: 23%
+source-wordcount: 61
+ht-degree: 14%
 
 ---
 
 # Adobe Advertising チュートリアル
 
-これらのビデオチュートリアルと[Adobe Advertising ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/advertising)は、Adobe Advertisingを使用して、これまで以上に迅速に顧客インサイトを得るのに役立ちます。
+これらのビデオチュートリアルは、[Adobe Advertising ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/advertising)と共に、Adobe Advertisingを使用して顧客インサイトを迅速に獲得する方法を説明します。
 
 ビデオは、次の目的で利用できます。
 
 * Advertising DSP
 
-* Advertising DSPおよびAdvertising Search, Social, &amp; Commerceと他のAdobe Experience Cloud製品およびサービスとの統合
+* Advertising DSPおよびAdvertising Search, Social, &amp; Commerceと、他のAdobe Experience Cloud製品およびサービスとの統合
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content
