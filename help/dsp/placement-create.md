@@ -32,4 +32,4 @@ ht-degree: 0%
 
 DSP キャンペーンの標準ディスプレイプレースメントを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340454)
+>[!VIDEO](https://video.tv.adobe.com/v/345001?captions=jpn)
