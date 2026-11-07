@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Adobe Analyticsを使用して、Adobe Advertisingの有料メディアキャンペーンを開始する準備を行う方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33501)
+>[!VIDEO](https://video.tv.adobe.com/v/3506449?captions=jpn)

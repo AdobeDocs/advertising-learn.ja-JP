@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Adobe Analyticsを使用して、Adobe Advertising リマーケティング用のサイトリターゲティングプールを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33503)
+>[!VIDEO](https://video.tv.adobe.com/v/3506664?captions=jpn)

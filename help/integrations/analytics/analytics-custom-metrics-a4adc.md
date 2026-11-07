@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Adobe Analytics内でAdobe Advertising データを使用する場合に作成するカスタム指標を特定します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33919)
+>[!VIDEO](https://video.tv.adobe.com/v/3506486?captions=jpn)

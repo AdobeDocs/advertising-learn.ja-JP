@@ -32,4 +32,4 @@ ht-degree: 0%
 
 解決できるお客様の問題を含め、Adobe AdvertisingとAdobe Analytics間の統合の利点を理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33491)
+>[!VIDEO](https://video.tv.adobe.com/v/3506549?captions=jpn)
