@@ -34,4 +34,4 @@ ht-degree: 0%
 
 ライブキャンペーンモニタリング用のAdobe Advertising ダッシュボードを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33922)
+>[!VIDEO](https://video.tv.adobe.com/v/3506501?captions=jpn)

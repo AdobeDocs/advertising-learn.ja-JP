@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Adobe Advertising ビュースルーおよびクリックスルーの入力データをAdobe Analytics [!DNL Marketing Channels]と統合する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33502)
+>[!VIDEO](https://video.tv.adobe.com/v/3506640?captions=jpn)

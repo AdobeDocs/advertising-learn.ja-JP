@@ -37,4 +37,4 @@ ht-degree: 0%
 
 曜日、時間帯、ブラウザー、地理的な影響をモニタリングするためのAdobe Advertising サイト入口レポートの作成方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33921)
+>[!VIDEO](https://video.tv.adobe.com/v/3506575?captions=jpn)

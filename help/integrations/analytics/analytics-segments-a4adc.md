@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Adobe Advertisingのディメンションを使用してセグメントを作成し、レポートと分析を強化する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33916)
+>[!VIDEO](https://video.tv.adobe.com/v/3506458?captions=jpn)

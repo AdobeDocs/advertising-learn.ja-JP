@@ -35,4 +35,4 @@ ht-degree: 0%
 
 Adobe Advertising データを使用して、Adobe Analytics [!DNL Analysis Workspace]でビジュアルレポートを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33492)
+>[!VIDEO](https://video.tv.adobe.com/v/3506685?captions=jpn)
